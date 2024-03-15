@@ -15,10 +15,10 @@ class addressSeeder extends Seeder
         Address::create([
             'id' => '01',
             'id_contact' => 1,
-            'street' => '123 Main St',
-            'city' => 'New York',
-            'province' => 'NY',
-            'country' => 'USA',
+            'street' => 'Jl Ketintang Timur',
+            'city' => 'Surabaya',
+            'province' => 'Jawa Timur',
+            'country' => 'Indonesia',
             'postal_code' => '10001'
         ]);
 
