@@ -13,10 +13,10 @@ class contactSeeder extends Seeder
     public function run(): void
     {
         Contact::create([
-            'first_name' => 'Debby',
-            'last_name' => 'Putri',
-            'email' => 'debyputri@gmail.com',
-            'phone' => '1234567890'
+            'first_name' => 'Frida',
+            'last_name' => 'NC',
+            'email' => 'frida.22036@mhs.unesa.ac.id',
+            'phone' => '085655313012'
         ]);
 
     
